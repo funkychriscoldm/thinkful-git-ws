@@ -1,4 +1,4 @@
-# thinkful-git-ws
+#The Funky Readme
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
@@ -42,3 +42,5 @@ Git is our coding time machine. Mistakes and errors in our code are inevitable. 
 
 
 #test
+
+Hello this is just a test
